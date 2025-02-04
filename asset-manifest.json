@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/steam-clone-page/static/css/main.61b2906d.css",
+    "main.js": "/steam-clone-page/static/js/main.ddf9fa51.js",
+    "index.html": "/steam-clone-page/index.html",
+    "main.61b2906d.css.map": "/steam-clone-page/static/css/main.61b2906d.css.map",
+    "main.ddf9fa51.js.map": "/steam-clone-page/static/js/main.ddf9fa51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61b2906d.css",
+    "static/js/main.ddf9fa51.js"
+  ]
+}
